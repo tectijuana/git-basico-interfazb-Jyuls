@@ -1,4 +1,2 @@
----
-title: "Hello World!"
-output: html_document
----
+
+title: "Aqui presentare mis programas realizados en C++"
